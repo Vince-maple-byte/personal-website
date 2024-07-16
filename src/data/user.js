@@ -55,7 +55,7 @@ const INFO = {
 		{
 			title: "Multisig Wallet",
 			description:
-				"Made an evm based multi signature wallet that requires approvals from multiple owners in order for a transaction to be executed. Built with Solidity, Hardhat, and Typescript.",
+				"Made an EVM (Ethereum Virtual Machine) based multi signature wallet that requires approvals from multiple owners in order for a transaction to be executed in that specific wallet. Built with Solidity, Hardhat, and Typescript.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
 			link: "https://github.com/Vince-maple-byte/multisig-wallet",
