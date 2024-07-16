@@ -37,46 +37,37 @@ const INFO = {
 		{
 			title: "MTG Mastery",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A web scrapper using puppupteer.js that gathers the most popular decks for the card game Magic the gathering and displays this information with React.js.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Vince-maple-byte/MTG-API",
 		},
 
 		{
-			title: "Project 2",
+			title: "CLI Email Sender",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"A command line tool made with Java Springboot that sends emails.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Vince-maple-byte/climailsender",
 		},
 
 		{
-			title: "Project 3",
+			title: "Multisig Wallet",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Made an evm based multi signature wallet that requires approvals from multiple owners in order for a transaction to be executed. Built with Solidity, Hardhat, and Typescript.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Vince-maple-byte/multisig-wallet",
 		},
 
 		{
-			title: "Project 4",
+			title: "Http-server",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Made a http server from scratch without any frameworks using node.js",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Vince-maple-byte/http-server",
 		},
 	],
 };
