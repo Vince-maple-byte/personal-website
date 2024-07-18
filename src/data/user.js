@@ -37,7 +37,7 @@ const INFO = {
 		{
 			title: "MTG Mastery",
 			description:
-				"A web scrapper using puppupteer.js that gathers the most popular decks for the card game Magic the gathering and displays this information with React.js.",
+				"A web scrapper using puppeteer.js that gathers the most popular decks for the card game Magic the gathering and displays this information with React.js.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/Vince-maple-byte/MTG-API",
